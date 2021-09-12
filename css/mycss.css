@@ -1,0 +1,13 @@
+h1 {
+    text-align: right;
+    background-color: aqua;
+    padding: 50px;
+}
+p {
+    background-color: bisque;
+    padding: 15;
+}
+strong {
+    font-size: 50px;
+    color: coral;
+}
